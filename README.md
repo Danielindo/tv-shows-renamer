@@ -41,7 +41,6 @@ Shows
   - move the 'rename.py' file in the folder with the episode to rename
   - run the file using ```foo@bar:~$ python3 rename.py```
   - then insert the required data ```Insert the number of the tv season following this format (01; 02; etc..):    ```
-> ⚠️ **do not rename the python file!**
 
 </br>
 
