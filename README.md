@@ -1,5 +1,5 @@
 # tv-shows-renamer
-- python script to rename all episode of TV Series in the fllowing example format: S01:E1
+- python script to rename all episode of TV Series in the fllowing example format: > S01:E01
 - ⚠️ This scripts only works with **Linux**
 
 </br>
