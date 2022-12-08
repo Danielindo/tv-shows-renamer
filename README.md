@@ -6,7 +6,8 @@
 
 # Purpose
 I created this script to speed up the creation of Jellyfin Tv Shows folder structures, <br>
-Jellyfin with the right folder structure can automatically download a Tv Shows' metadata
+Jellyfin with the right folder structure can automatically scrape Tv Shows' metadata. <br>
+More info can be found <a href="https://jellyfin.org/docs/general/server/media/shows">in the official jellyfin documentation</a>
 
 ```bash
 
